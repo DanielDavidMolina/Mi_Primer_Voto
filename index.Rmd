@@ -64,7 +64,7 @@ p {
   <tr>
     <td style="width:80%; vertical-align:middle;">
       <h1 style="margin: 0;">Mi Primer Voto</h1>
-      <h4 style="margin: 0;">Realizado por el Lic. Daniel D. Molina para la EES N°2 Rauch</h4>
+      <h4 style="margin: 0;">EES N°2 Rauch</h4>
       <p style="margin: 0;">12 de julio de 2025</p>
     </td>
     <td style="width:20%; text-align:right;">

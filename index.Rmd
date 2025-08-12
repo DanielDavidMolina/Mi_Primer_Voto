@@ -80,7 +80,7 @@ p {
   <p style="margin: 0; font-weight: bold; text-align: right;">Prof. Alberto E. Sileoni</p>
 </div>
 
-## Mi primer voto. Informe y Recursos. 
+## Mi primer voto.<br>Informe y Recursos. 
 
 <p style="text-indent: 30px; margin-bottom: 20px;">
 <span style="font-weight: bold;">Por David Cela Heffel, Gastón De Luca y Sabrina Garbovetzky.</span> <br> Es un programa de formación política destinado a personas que viven en la provincia de Buenos Aires y emitirán su voto por primera vez.
